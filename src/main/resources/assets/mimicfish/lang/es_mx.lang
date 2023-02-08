@@ -1,0 +1,16 @@
+#Mobs
+entity.lunkertooth.name=Mordedor Abisal
+#items
+item.esca.name=Esca
+item.anglerfish_egg.name=Huevo de Mordedor Abisal
+#potion
+potion.chestsight=Ojo Codicioso
+#tab
+itemGroup.mimictab=Deep Below
+#Subtitles
+subtitles.lunkertooth_idle=Mordedor Abisal gruñe
+subtitles.lunkertooth_hurt=Mordedor Abisal herido
+subtitles.lunkertooth_death=Mordedor Abisal muere
+subtitles.lunkertooth_scream=Mordedor Abisal ataca
+subtitles.lunkertooth_bite=Mordedor Abisal muerde
+subtitles.lunkertooth_flop=Mordedor Abisal en tierra firme

@@ -1,0 +1,43 @@
+{
+  "lunkertooth_idle": {
+    "subtitle": "subtitles.lunkertooth_idle",
+    "sounds": [
+      "mimicfish:lunkertooth_idle_01",
+      "mimicfish:lunkertooth_idle_02",
+      "mimicfish:lunkertooth_idle_03"
+    ]
+  },
+  "lunkertooth_hurt": {
+    "subtitle": "subtitles.lunkertooth_hurt",
+    "sounds": [
+         "mimicfish:lunkertooth_hurt_01",
+         "mimicfish:lunkertooth_hurt_02",
+         "mimicfish:lunkertooth_hurt_03"
+    ]
+  },
+  "lunkertooth_death": {
+    "subtitle": "subtitles.lunkertooth_death",
+    "sounds": [
+         "mimicfish:lunkertooth_death"
+    ]
+  },
+  "lunkertooth_scream": {
+    "subtitle": "subtitles.lunkertooth_scream",
+    "sounds": [
+        "mimicfish:lunkertooth_scare"
+    ]
+  },
+  "lunkertooth_bite": {
+    "subtitle": "subtitles.lunkertooth_bite",
+    "sounds": [
+        "mimicfish:lunkertooth_chomp"
+    ]
+  },
+     "lunkertooth_flop": {
+       "subtitle": "subtitles.lunkertooth_flop",
+       "sounds": [
+            "mimicfish:lunkertooth_flop_01",
+            "mimicfish:lunkertooth_flop_02"
+       ]
+     }
+}

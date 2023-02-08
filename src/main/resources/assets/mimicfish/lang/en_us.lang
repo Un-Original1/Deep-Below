@@ -1,0 +1,16 @@
+#Mobs
+entity.lunkertooth.name=Lunkertooth
+#items
+item.esca.name=Esca
+item.anglerfish_egg.name=Lunkertooth Egg
+#potion
+potion.chestsight=Greedy Eye
+#tab
+itemGroup.mimictab=Deep Below
+#Subtitles
+subtitles.lunkertooth_idle=Lunkertooth groans
+subtitles.lunkertooth_hurt=Lunkertooth hurts
+subtitles.lunkertooth_death=Lunkertooth dies
+subtitles.lunkertooth_scream=Lunkertooth ambushes
+subtitles.lunkertooth_bite=Lunkertooth bites
+subtitles.lunkertooth_flop=Lunkertooth flops

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mimicfish",
+  "name": "Deep Below",
+  "description": "Big mimic fish go brrrrr",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Unoriginal_1, Jboymercs & FakeDrayn"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
