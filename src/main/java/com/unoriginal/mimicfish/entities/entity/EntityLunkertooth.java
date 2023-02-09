@@ -60,7 +60,7 @@ public class EntityLunkertooth extends EntityMob implements IEntityMultiPart {
 
     protected void initEntityAI() {
         EntityAIMoveTowardsRestriction entityaimovetowardsrestriction = new EntityAIMoveTowardsRestriction(this, 1.0D);
-        this.tasks.addTask(2, new EntityAIMeleeConditional(this, 1.0D, false, Predicate -> this.avoidTicks <= 0));
+        this.tasks.addTask(2, new EntityAIMeleeConditional(this, 1.0D, false, Predicate -> this.avoidTicks <= 0, 1.45D));
         this.tasks.addTask(3, new EntityAIAvoidEntity<>(this, EntityLivingBase.class, Predicate -> this.avoidTicks > 0 ,9F, 1.0D, 1.2D));
         this.tasks.addTask(3, new EntityAILunkertoothLeap(this, 0.2F));
         this.wander = new EntityAIWander(this, 1.0D, 80);
